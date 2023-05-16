@@ -1,0 +1,10 @@
+com\persistence\demo\bl\ProductManagement.class
+com\persistence\demo\dl\ProductRepositoryJPA.class
+com\persistence\demo\domain\User.class
+com\persistence\demo\dl\ProductEntityRepository.class
+com\persistence\demo\dl\ProductRepository.class
+com\persistence\demo\dl\ProductEntity.class
+com\persistence\demo\bl\BasicProductManagement.class
+com\persistence\demo\DemoApplication.class
+com\persistence\demo\domain\Product.class
+com\persistence\demo\controller\ProductController.class
